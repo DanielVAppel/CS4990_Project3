@@ -7,3 +7,4 @@ boolean SHOW_WALL_DIRECTION = false;
 
 
 int GRID_SIZE = 40;
+//int GRID_SIZE = 50; //Used to test other sizes
